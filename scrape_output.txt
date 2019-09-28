@@ -1,0 +1,550 @@
+Parsing results for UFC Fight Night: Rodríguez vs. Stephens
+Parsing results for UFC Fight Night: Cowboy vs. Gaethje
+Parsing results for UFC 242: Khabib vs. Poirier
+Parsing results for UFC Fight Night: Andrade vs. Zhang
+Parsing results for UFC 241: Cormier vs. Miocic 2
+Parsing results for UFC Fight Night: Shevchenko vs. Carmouche 2
+Parsing results for UFC on ESPN: Covington vs. Lawler
+Parsing results for UFC 240: Holloway vs. Edgar
+Parsing results for UFC on ESPN: dos Anjos vs. Edwards
+Parsing results for UFC Fight Night: de Randamie vs. Ladd
+Parsing results for UFC 239: Jones vs. Santos
+Parsing results for UFC on ESPN: Ngannou vs. dos Santos
+Parsing results for UFC Fight Night: Moicano vs. Korean Zombie
+Parsing results for UFC 238: Cejudo vs. Moraes
+Parsing results for UFC Fight Night: Gustafsson vs. Smith
+Parsing results for UFC Fight Night: dos Anjos vs. Lee
+Parsing results for UFC 237: Namajunas vs. Andrade
+Parsing results for UFC Fight Night: Iaquinta vs. Cowboy
+Parsing results for UFC Fight Night: Jacaré vs. Hermansson
+Parsing results for UFC Fight Night: Overeem vs. Oleinik
+Parsing results for UFC 236: Holloway vs. Poirier 2
+Parsing results for UFC on ESPN: Barboza vs. Gaethje
+Parsing results for UFC Fight Night: Thompson vs. Pettis
+Parsing results for UFC Fight Night: Till vs. Masvidal
+Parsing results for UFC Fight Night: Lewis vs. dos Santos
+Parsing results for UFC 235: Jones vs. Smith
+Parsing results for UFC Fight Night: Błachowicz vs. Santos
+Parsing results for UFC on ESPN: Ngannou vs. Velasquez
+Parsing results for UFC 234: Adesanya vs. Silva
+Parsing results for UFC Fight Night: Assunção vs. Moraes 2
+Parsing results for UFC 233
+Skipping event - no results table found
+Parsing results for UFC Fight Night: Cejudo vs. Dillashaw
+Parsing results for UFC 232: Jones vs. Gustafsson 2
+Parsing results for UFC on Fox: Lee vs. Iaquinta 2
+Parsing results for UFC 231: Holloway vs. Ortega
+Parsing results for UFC Fight Night: dos Santos vs. Tuivasa
+Parsing results for The Ultimate Fighter: Heavy Hitters Finale
+Skipping event - page not found
+Parsing results for UFC Fight Night: Blaydes vs. Ngannou 2
+Parsing results for UFC Fight Night: Magny vs. Ponzinibbio
+Parsing results for UFC Fight Night: Korean Zombie vs. Rodríguez
+Parsing results for UFC 230: Cormier vs. Lewis
+Parsing results for UFC Fight Night: Volkan vs. Smith
+Parsing results for UFC 229: Khabib vs. McGregor
+Parsing results for UFC Fight Night: Santos vs. Anders
+Parsing results for UFC Fight Night: Hunt vs. Oleinik
+Parsing results for UFC 228: Woodley vs. Till
+Parsing results for UFC Fight Night: Gaethje vs. Vick
+Parsing results for UFC 227: Dillashaw vs. Garbrandt 2
+Parsing results for UFC on Fox: Alvarez vs. Poirier 2
+Parsing results for UFC Fight Night: Shogun vs. Smith
+Parsing results for UFC Fight Night: dos Santos vs. Ivanov
+Parsing results for UFC 226: Miocic vs. Cormier
+Parsing results for The Ultimate Fighter: Undefeated#The Ultimate Fighter 27 Finale
+Skipping event - no results table found
+Parsing results for UFC Fight Night: Cowboy vs. Edwards
+Parsing results for UFC 225: Whittaker vs. Romero 2
+Parsing results for UFC Fight Night: Rivera vs. Moraes
+Parsing results for UFC Fight Night: Thompson vs. Till
+Parsing results for UFC Fight Night: Maia vs. Usman
+Parsing results for UFC 224: Nunes vs. Pennington
+Parsing results for UFC Fight Night: Barboza vs. Lee
+Parsing results for UFC on Fox: Poirier vs. Gaethje
+Parsing results for UFC 223: Khabib vs. Iaquinta
+Parsing results for UFC Fight Night: Werdum vs. Volkov
+Parsing results for UFC 222: Cyborg vs. Kunitskaya
+Parsing results for UFC on Fox: Emmett vs. Stephens
+Parsing results for UFC Fight Night: Cowboy vs. Medeiros
+Parsing results for UFC 221: Romero vs. Rockhold
+Parsing results for UFC Fight Night: Machida vs. Anders
+Parsing results for UFC on Fox: Jacaré vs. Brunson 2
+Parsing results for UFC 220: Miocic vs. Ngannou
+Parsing results for UFC Fight Night: Stephens vs. Choi
+Parsing results for UFC 219: Cyborg vs. Holm
+Parsing results for UFC on Fox: Lawler vs. dos Anjos
+Parsing results for UFC Fight Night: Swanson vs. Ortega
+Parsing results for UFC 218: Holloway vs. Aldo 2
+Parsing results for The Ultimate Fighter: A New World Champion#The Ultimate Fighter 26 Finale
+Skipping event - no results table found
+Parsing results for UFC Fight Night: Bisping vs. Gastelum
+Parsing results for UFC Fight Night: Werdum vs. Tybura
+Parsing results for UFC Fight Night: Poirier vs. Pettis
+Parsing results for UFC 217: Bisping vs. St-Pierre
+Parsing results for UFC Fight Night: Brunson vs. Machida
+Parsing results for UFC Fight Night: Cowboy vs. Till
+Parsing results for UFC 216: Ferguson vs. Lee
+Parsing results for UFC Fight Night: Saint Preux vs. Okami
+Parsing results for UFC Fight Night: Rockhold vs. Branch
+Parsing results for UFC 215: Nunes vs. Shevchenko 2
+Parsing results for UFC Fight Night: Volkov vs. Struve
+Parsing results for UFC Fight Night: Pettis vs. Moreno
+Parsing results for UFC 214: Cormier vs. Jones 2
+Parsing results for UFC on Fox: Weidman vs. Gastelum
+Parsing results for UFC Fight Night: Nelson vs. Ponzinibbio
+Parsing results for UFC 213: Romero vs. Whittaker
+Parsing results for The Ultimate Fighter: Redemption#The Ultimate Fighter 25 Finale
+Skipping event - no results table found
+Parsing results for UFC Fight Night: Chiesa vs. Lee
+Parsing results for UFC Fight Night: Holm vs. Correia
+Parsing results for UFC Fight Night: Lewis vs. Hunt
+Parsing results for UFC 212: Aldo vs. Holloway
+Parsing results for UFC Fight Night: Gustafsson vs. Teixeira
+Parsing results for UFC 211: Miocic vs. dos Santos 2
+Parsing results for UFC Fight Night: Swanson vs. Lobov
+Parsing results for UFC on Fox: Johnson vs. Reis
+Parsing results for UFC 210: Cormier vs. Johnson 2
+Parsing results for UFC Fight Night: Manuwa vs. Anderson
+Parsing results for UFC Fight Night: Belfort vs. Gastelum
+Parsing results for UFC 209: Woodley vs. Thompson 2
+Parsing results for UFC Fight Night: Lewis vs. Browne
+Parsing results for UFC 208: Holm vs. de Randamie
+Parsing results for UFC Fight Night: Bermudez vs. Korean Zombie
+Parsing results for UFC on Fox: Shevchenko vs. Peña
+Parsing results for UFC Fight Night: Rodríguez vs. Penn
+Parsing results for UFC 207: Nunes vs. Rousey
+Parsing results for UFC on Fox: VanZant vs. Waterson
+Parsing results for UFC 206: Holloway vs. Pettis
+Parsing results for UFC Fight Night: Lewis vs. Abdurakhimov
+Parsing results for The Ultimate Fighter: Tournament of Champions#The Ultimate Fighter 24 Finale
+Skipping event - no results table found
+Parsing results for UFC Fight Night: Whittaker vs. Brunson
+Parsing results for UFC Fight Night: Bader vs. Nogueira 2
+Parsing results for UFC Fight Night: Mousasi vs. Hall 2
+Parsing results for UFC 205: Alvarez vs. McGregor
+Parsing results for The Ultimate Fighter: Latin America 3#The Ultimate Fighter Latin America 3 Finale: dos Anjos vs. Ferguson
+Parsing results for UFC Fight Night: Lamas vs. Penn
+Skipping event - no results table found
+Parsing results for UFC 204: Bisping vs. Henderson 2
+Parsing results for UFC Fight Night: Lineker vs. Dodson
+Parsing results for UFC Fight Night: Cyborg vs. Lansberg
+Parsing results for UFC Fight Night: Poirier vs. Johnson
+Parsing results for UFC 203: Miocic vs. Overeem
+Parsing results for UFC Fight Night: Arlovski vs. Barnett
+Parsing results for UFC on Fox: Maia vs. Condit
+Parsing results for UFC 202: Diaz vs. McGregor 2
+Parsing results for UFC Fight Night: Rodríguez vs. Caceres
+Parsing results for UFC 201: Lawler vs. Woodley
+Parsing results for UFC on Fox: Holm vs. Shevchenko
+Parsing results for UFC Fight Night: McDonald vs. Lineker
+Parsing results for UFC 200: Tate vs. Nunes
+Parsing results for The Ultimate Fighter: Team Joanna vs. Team Cláudia#The Ultimate Fighter 23 Finale
+Parsing results for UFC Fight Night: dos Anjos vs. Alvarez
+Parsing results for UFC Fight Night: MacDonald vs. Thompson
+Parsing results for UFC 199: Rockhold vs. Bisping 2
+Parsing results for UFC Fight Night: Almeida vs. Garbrandt
+Parsing results for UFC 198: Werdum vs. Miocic
+Parsing results for UFC Fight Night: Overeem vs. Arlovski
+Parsing results for UFC 197: Jones vs. Saint Preux
+Parsing results for UFC on Fox: Teixeira vs. Evans
+Parsing results for UFC Fight Night: Rothwell vs. dos Santos
+Parsing results for UFC Fight Night: Hunt vs. Mir
+Parsing results for UFC 196: McGregor vs. Diaz
+Parsing results for UFC Fight Night: Silva vs. Bisping
+Parsing results for UFC Fight Night: Cowboy vs. Cowboy
+Parsing results for UFC Fight Night: Hendricks vs. Thompson
+Parsing results for UFC on Fox: Johnson vs. Bader
+Parsing results for UFC Fight Night: Dillashaw vs. Cruz
+Parsing results for UFC 195: Lawler vs. Condit
+Parsing results for UFC on Fox: dos Anjos vs. Cowboy 2
+Parsing results for UFC 194: Aldo vs. McGregor
+Parsing results for The Ultimate Fighter: Team McGregor vs. Team Faber#The Ultimate Fighter 22 Finale
+Parsing results for UFC Fight Night: Namajunas vs. VanZant
+Parsing results for UFC Fight Night: Henderson vs. Masvidal
+Parsing results for The Ultimate Fighter: Latin America 2#The Ultimate Fighter Latin America 2 Finale: Magny vs. Gastelum
+Parsing results for UFC 193: Rousey vs. Holm
+Parsing results for UFC Fight Night: Belfort vs. Henderson 3
+Parsing results for UFC Fight Night: Holohan vs. Smolka
+Parsing results for UFC 192: Cormier vs. Gustafsson
+Parsing results for UFC Fight Night: Barnett vs. Nelson
+Parsing results for UFC 191: Johnson vs. Dodson 2
+Parsing results for UFC Fight Night: Holloway vs. Oliveira
+Parsing results for UFC Fight Night: Teixeira vs. Saint Preux
+Parsing results for UFC 190: Rousey vs. Correia
+Parsing results for UFC on Fox: Dillashaw vs. Barão 2
+Parsing results for UFC Fight Night: Bisping vs. Leites
+Parsing results for UFC Fight Night: Mir vs. Duffee
+Parsing results for The Ultimate Fighter: American Top Team vs. Blackzilians#The Ultimate Fighter 21 Finale
+Parsing results for UFC 189: Mendes vs. McGregor
+Parsing results for UFC Fight Night: Machida vs. Romero
+Parsing results for UFC Fight Night: Jędrzejczyk vs. Penne
+Parsing results for UFC 188: Velasquez vs. Werdum
+Parsing results for UFC Fight Night: Boetsch vs. Henderson
+Parsing results for UFC Fight Night: Condit vs. Alves
+Parsing results for UFC 187: Johnson vs. Cormier
+Parsing results for UFC Fight Night: Edgar vs. Faber
+Parsing results for UFC Fight Night: Miocic vs. Hunt
+Parsing results for UFC 186: Johnson vs. Horiguchi
+Parsing results for UFC on Fox: Machida vs. Rockhold
+Parsing results for UFC Fight Night: Gonzaga vs. Cro Cop 2
+Parsing results for UFC Fight Night: Mendes vs. Lamas
+Parsing results for UFC Fight Night: Maia vs. LaFlare
+Parsing results for UFC 185: Pettis vs. dos Anjos
+Parsing results for UFC 184: Rousey vs. Zingano
+Parsing results for UFC Fight Night: Bigfoot vs. Mir
+Parsing results for UFC Fight Night: Henderson vs. Thatch
+Parsing results for UFC 183: Silva vs. Diaz
+Parsing results for UFC on Fox: Gustafsson vs. Johnson
+Parsing results for UFC Fight Night: McGregor vs. Siver
+Parsing results for UFC 182: Jones vs. Cormier
+Parsing results for UFC Fight Night: Machida vs. Dollaway
+Skipping event - no results table found
+Parsing results for UFC on Fox: dos Santos vs. Miocic
+Parsing results for The Ultimate Fighter: A Champion Will Be Crowned#The Ultimate Fighter 20 Finale
+Skipping event - no results table found
+Parsing results for UFC 181: Hendricks vs. Lawler II
+Parsing results for UFC Fight Night: Edgar vs. Swanson
+Parsing results for UFC 180: Werdum vs. Hunt
+Parsing results for UFC Fight Night: Shogun vs. Saint Preux
+Parsing results for UFC Fight Night: Rockhold vs. Bisping
+Parsing results for UFC 179: Aldo vs. Mendes 2
+Parsing results for UFC Fight Night: MacDonald vs. Saffiedine
+Parsing results for UFC Fight Night: Nelson vs. Story
+Parsing results for UFC 178: Johnson vs. Cariaso
+Parsing results for UFC Fight Night: Hunt vs. Nelson
+Parsing results for UFC Fight Night: Bigfoot vs. Arlovski
+Parsing results for UFC Fight Night: Jacaré vs. Mousasi
+Parsing results for UFC 177: Dillashaw vs. Soto
+Parsing results for UFC Fight Night: Henderson vs. dos Anjos
+Parsing results for UFC Fight Night: Bisping vs. Le
+Parsing results for UFC Fight Night: Bader vs. Saint Preux
+Skipping event - no results table found
+Parsing results for UFC 176: Aldo vs. Mendes II
+Skipping event - no results table found
+Parsing results for UFC on Fox: Lawler vs. Brown
+Parsing results for UFC Fight Night: McGregor vs. Brandao
+Parsing results for UFC Fight Night: Cowboy vs. Miller
+Parsing results for The Ultimate Fighter: Team Edgar vs. Team Penn#The Ultimate Fighter 19 Finale
+Parsing results for UFC 175: Weidman vs. Machida
+Parsing results for UFC Fight Night: Swanson vs. Stephens
+Parsing results for UFC Fight Night: Te Huna vs. Marquardt
+Parsing results for UFC 174: Johnson vs. Bagautinov
+Parsing results for UFC Fight Night: Henderson vs. Khabilov
+Parsing results for The Ultimate Fighter: Brazil 3#The Ultimate Fighter Brazil 3 Finale: Miocic vs. Maldonado
+Skipping event - no results table found
+Parsing results for UFC Fight Night: Muñoz vs. Mousasi
+Parsing results for UFC 173: Barão vs. Dillashaw
+Parsing results for UFC Fight Night: Brown vs. Silva
+Parsing results for UFC 172: Jones vs. Teixeira
+Parsing results for UFC on Fox: Werdum vs. Browne
+Parsing results for The Ultimate Fighter Nations: Canada vs. Australia#The Ultimate Fighter Nations Finale: Bisping vs. Kennedy
+Skipping event - no results table found
+Parsing results for UFC Fight Night: Nogueira vs. Nelson
+Parsing results for UFC Fight Night: Shogun vs. Henderson 2
+Parsing results for UFC 171: Hendricks vs. Lawler
+Parsing results for UFC Fight Night: Gustafsson vs. Manuwa
+Parsing results for The Ultimate Fighter: China#The Ultimate Fighter China Finale: Kim vs. Hathaway
+Parsing results for UFC 170: Rousey vs. McMann
+Parsing results for UFC Fight Night: Machida vs. Mousasi
+Parsing results for UFC 169: Barão vs. Faber II
+Parsing results for UFC on Fox: Henderson vs. Thomson
+Parsing results for UFC Fight Night: Rockhold vs. Philippou
+Parsing results for UFC Fight Night: Saffiedine vs. Lim
+Parsing results for UFC 168: Weidman vs. Silva 2
+Parsing results for UFC on Fox: Johnson vs. Benavidez 2
+Parsing results for UFC Fight Night: Hunt vs. Bigfoot
+Parsing results for The Ultimate Fighter: Team Rousey vs. Team Tate#The Ultimate Fighter 18 Finale
+Skipping event - no results table found
+Parsing results for UFC 167: St-Pierre vs. Hendricks
+Parsing results for UFC Fight Night: Belfort vs. Henderson
+Parsing results for UFC: Fight for the Troops 3
+Parsing results for UFC Fight Night: Machida vs. Muñoz
+Parsing results for UFC 166: Velasquez vs. dos Santos III
+Parsing results for UFC Fight Night: Maia vs. Shields
+Parsing results for UFC 165: Jones vs. Gustafsson
+Parsing results for UFC Fight Night: Teixeira vs. Bader
+Parsing results for UFC 164: Henderson vs. Pettis
+Parsing results for UFC Fight Night: Condit vs. Kampmann 2
+Parsing results for UFC Fight Night: Shogun vs. Sonnen
+Parsing results for UFC 163: Aldo vs. Korean Zombie
+Parsing results for UFC on Fox: Johnson vs. Moraga
+Parsing results for UFC 162: Silva vs. Weidman
+Parsing results for UFC 161: Evans vs. Henderson
+Parsing results for UFC on Fuel TV: Nogueira vs. Werdum
+Skipping event - no results table found
+Parsing results for UFC 160: Velasquez vs. Bigfoot 2
+Parsing results for UFC on FX: Belfort vs. Rockhold
+Parsing results for UFC 159: Jones vs. Sonnen
+Parsing results for UFC on Fox: Henderson vs. Melendez
+Parsing results for The Ultimate Fighter: Team Jones vs. Team Sonnen#The Ultimate Fighter 17 Finale
+Skipping event - no results table found
+Parsing results for UFC on Fuel TV: Mousasi vs. Latifi
+Parsing results for UFC 158: St-Pierre vs. Diaz
+Parsing results for UFC on Fuel TV: Silva vs. Stann
+Parsing results for UFC 157: Rousey vs. Carmouche
+Parsing results for UFC on Fuel TV: Barão vs. McDonald
+Parsing results for UFC 156: Aldo vs. Edgar
+Parsing results for UFC on Fox: Johnson vs. Dodson
+Parsing results for UFC on FX: Belfort vs. Bisping
+Skipping event - no results table found
+Parsing results for UFC 155: dos Santos vs. Velasquez 2
+Parsing results for The Ultimate Fighter: Team Carwin vs. Team Nelson#The Ultimate Fighter 16 Finale
+Skipping event - no results table found
+Parsing results for UFC on FX: Sotiropoulos vs. Pearson
+Parsing results for UFC on Fox: Henderson vs. Diaz
+Parsing results for UFC 154: St-Pierre vs. Condit
+Parsing results for UFC on Fuel TV: Franklin vs. Le
+Parsing results for UFC 153: Silva vs. Bonnar
+Parsing results for UFC on FX: Browne vs. Bigfoot
+Parsing results for UFC on Fuel TV: Struve vs. Miocic
+Parsing results for UFC 152: Jones vs. Belfort
+Parsing results for UFC 151: Jones vs. Henderson
+Skipping event - no results table found
+Parsing results for UFC 150: Henderson vs. Edgar II
+Parsing results for UFC on Fox: Shogun vs. Vera
+Parsing results for UFC 149: Faber vs. Barão
+Skipping event - page not found
+Parsing results for UFC on Fuel TV: Muñoz vs. Weidman
+Parsing results for UFC 148: Silva vs. Sonnen II
+Parsing results for UFC 147: Silva vs. Franklin II
+Parsing results for UFC on FX: Maynard vs. Guida
+Parsing results for UFC on FX: Johnson vs. McCall
+Parsing results for The Ultimate Fighter: Live#The Ultimate Fighter 15 Finale
+Parsing results for UFC 146: dos Santos vs. Mir
+Parsing results for UFC on Fuel TV: Korean Zombie vs. Poirier
+Parsing results for UFC on Fox: Diaz vs. Miller
+Parsing results for UFC 145: Jones vs. Evans
+Parsing results for UFC on Fuel TV: Gustafsson vs. Silva
+Parsing results for UFC on FX: Alves vs. Kampmann
+Parsing results for UFC 144: Edgar vs. Henderson
+Parsing results for UFC on Fuel TV: Sanchez vs. Ellenberger
+Parsing results for UFC 143: Diaz vs. Condit
+Parsing results for UFC on Fox: Evans vs. Davis
+Parsing results for UFC on FX: Guillard vs. Miller
+Parsing results for UFC 142: Aldo vs. Mendes
+Parsing results for UFC 141: Lesnar vs. Overeem
+Parsing results for UFC 140: Jones vs. Machida
+Parsing results for The Ultimate Fighter: Team Bisping vs. Team Miller Finale
+Parsing results for UFC 139: Shogun vs. Henderson
+Parsing results for UFC on Fox: Velasquez vs. dos Santos
+Parsing results for UFC 138: Leben vs. Muñoz
+Parsing results for UFC 137: Penn vs. Diaz
+Parsing results for UFC 136: Edgar vs. Maynard III
+Parsing results for UFC Live: Cruz vs. Johnson
+Parsing results for UFC 135: Jones vs. Rampage
+Parsing results for UFC Fight Night: Shields vs. Ellenberger
+Parsing results for UFC 134: Silva vs. Okami
+Parsing results for UFC Live: Hardy vs. Lytle
+Parsing results for UFC 133: Evans vs. Ortiz
+Parsing results for UFC 132: Cruz vs. Faber
+Parsing results for UFC Live: Kongo vs. Barry
+Parsing results for UFC 131: dos Santos vs. Carwin
+Parsing results for The Ultimate Fighter: Team Lesnar vs. Team dos Santos Finale
+Parsing results for UFC 130: Rampage vs. Hamill
+Parsing results for UFC 129: St-Pierre vs. Shields
+Parsing results for UFC Fight Night: Nogueira vs. Davis
+Parsing results for UFC 128: Shogun vs. Jones
+Parsing results for UFC Live: Sanchez vs. Kampmann
+Parsing results for UFC 127: Penn vs. Fitch
+Parsing results for UFC 126: Silva vs. Belfort
+Parsing results for UFC: Fight for the Troops 2
+Parsing results for UFC 125: Resolution
+Parsing results for UFC 124: St-Pierre vs. Koscheck 2
+Parsing results for The Ultimate Fighter: Team GSP vs. Team Koscheck Finale
+Parsing results for UFC 123: Rampage vs. Machida
+Parsing results for UFC 122: Marquardt vs. Okami
+Parsing results for UFC 121: Lesnar vs. Velasquez
+Parsing results for UFC 120: Bisping vs. Akiyama
+Parsing results for UFC 119: Mir vs. Cro Cop
+Parsing results for UFC Fight Night: Marquardt vs. Palhares
+Parsing results for UFC 118: Edgar vs. Penn 2
+Parsing results for UFC 117: Silva vs. Sonnen
+Parsing results for UFC Live: Jones vs. Matyushenko
+Parsing results for UFC 116: Lesnar vs. Carwin
+Parsing results for The Ultimate Fighter: Team Liddell vs. Team Ortiz Finale
+Parsing results for UFC 115: Liddell vs. Franklin
+Parsing results for UFC 114: Rampage vs. Evans
+Parsing results for UFC 113: Machida vs. Shogun 2
+Parsing results for UFC 112: Invincible
+Parsing results for UFC Fight Night: Florian vs. Gomi
+Parsing results for UFC 111: St-Pierre vs. Hardy
+Parsing results for UFC Live: Vera vs. Jones
+Parsing results for UFC 110: Nogueira vs. Velasquez
+Parsing results for UFC 109: Relentless
+Parsing results for UFC Fight Night: Maynard vs. Diaz
+Parsing results for UFC 108: Evans vs. Silva
+Parsing results for UFC 107: Penn vs. Sanchez
+Parsing results for The Ultimate Fighter: Heavyweights Finale
+Parsing results for UFC 106: Ortiz vs. Griffin 2
+Parsing results for UFC 105: Couture vs. Vera
+Parsing results for UFC 104: Machida vs. Shogun
+Parsing results for UFC 103: Franklin vs. Belfort
+Parsing results for UFC Fight Night: Diaz vs. Guillard
+Parsing results for UFC 102: Couture vs. Nogueira
+Parsing results for UFC 101: Declaration
+Parsing results for UFC 100
+Parsing results for The Ultimate Fighter: United States vs. United Kingdom Finale
+Parsing results for UFC 99
+Parsing results for UFC 98
+Parsing results for UFC 97
+Parsing results for UFC Fight Night: Condit vs. Kampmann
+Parsing results for UFC 96
+Parsing results for UFC 95
+Parsing results for UFC Fight Night: Lauzon vs. Stephens
+Parsing results for UFC 94
+Parsing results for UFC 93
+Parsing results for UFC 92
+Parsing results for The Ultimate Fighter: Team Nogueira vs. Team Mir Finale
+Parsing results for UFC: Fight for the Troops
+Parsing results for UFC 91
+Parsing results for UFC 90
+Parsing results for UFC 89
+Parsing results for UFC Fight Night: Diaz vs. Neer
+Parsing results for UFC 88
+Parsing results for UFC 87
+Parsing results for UFC Fight Night: Silva vs. Irvin
+Parsing results for UFC 86
+Parsing results for The Ultimate Fighter: Team Rampage vs. Team Forrest Finale
+Parsing results for UFC 85
+Parsing results for UFC 84
+Parsing results for UFC 83
+Parsing results for UFC Fight Night: Florian vs. Lauzon
+Parsing results for UFC 82
+Parsing results for UFC 81
+Parsing results for UFC Fight Night: Swick vs. Burkman
+Parsing results for UFC 80
+Parsing results for UFC 79
+Parsing results for The Ultimate Fighter: Team Hughes vs. Team Serra Finale
+Parsing results for UFC 78
+Parsing results for UFC 77
+Parsing results for UFC 76
+Parsing results for UFC Fight Night: Thomas vs. Florian
+Parsing results for UFC 75
+Parsing results for UFC 74
+Parsing results for UFC 73
+Parsing results for The Ultimate Fighter 5 Finale
+Parsing results for UFC 72
+Parsing results for UFC Fight Night: Stout vs. Fisher
+Parsing results for UFC 71
+Parsing results for UFC 70
+Parsing results for UFC 69
+Parsing results for UFC Fight Night: Stevenson vs. Guillard#UFC Fight Night: Stevenson vs. Guillard
+Skipping event - no results table found
+Parsing results for UFC 68
+Parsing results for UFC 67
+Parsing results for UFC Fight Night: Evans vs. Salmon
+Parsing results for UFC 66
+Parsing results for UFC Fight Night: Sanchez vs. Riggs
+Parsing results for UFC 65
+Parsing results for The Ultimate Fighter 4 Finale
+Parsing results for UFC 64
+Parsing results for Ortiz vs. Shamrock 3: The Final Chapter
+Parsing results for UFC 63
+Parsing results for UFC 62
+Parsing results for UFC Fight Night: Sanchez vs. Parisyan
+Parsing results for UFC 61
+Parsing results for UFC Ultimate Fight Night 5
+Parsing results for The Ultimate Fighter 3 Finale
+Parsing results for UFC 60
+Parsing results for UFC 59
+Parsing results for UFC Ultimate Fight Night 4
+Parsing results for UFC 58
+Parsing results for UFC 57
+Parsing results for UFC Ultimate Fight Night 3
+Parsing results for UFC 56
+Parsing results for The Ultimate Fighter 2 Finale
+Parsing results for UFC 55
+Parsing results for UFC Ultimate Fight Night 2
+Parsing results for UFC 54
+Parsing results for UFC Ultimate Fight Night
+Skipping event - no results table found
+Parsing results for UFC 53
+Parsing results for UFC 52
+Parsing results for The Ultimate Fighter 1 Finale
+Parsing results for UFC 51
+Parsing results for UFC 50
+Parsing results for UFC 49
+Parsing results for UFC 48
+Parsing results for UFC 47
+Parsing results for UFC 46
+Parsing results for UFC 45
+Parsing results for UFC 44
+Parsing results for UFC 43
+Parsing results for UFC 42
+Parsing results for UFC 41
+Parsing results for UFC 40
+Parsing results for UFC 39
+Parsing results for UFC 38
+Parsing results for UFC 37.5
+Parsing results for UFC 37
+Parsing results for UFC 36
+Parsing results for UFC 35
+Parsing results for UFC 34
+Parsing results for UFC 33
+Parsing results for UFC 32
+Parsing results for UFC 31
+Parsing results for UFC 30
+Parsing results for UFC 29
+Parsing results for UFC 28
+Parsing results for UFC 27
+Skipping event - no results table found
+Parsing results for UFC 26
+Skipping event - no results table found
+Parsing results for UFC 25
+Parsing results for UFC 24
+Parsing results for UFC 23
+Parsing results for UFC 22
+Parsing results for UFC 21
+Parsing results for UFC 20
+Parsing results for UFC 19
+Parsing results for UFC 18
+Parsing results for UFC Brazil: Ultimate Brazil
+Parsing results for UFC 17
+Parsing results for UFC 16
+Parsing results for UFC Japan: Ultimate Japan
+Parsing results for UFC 15
+Parsing results for UFC 14
+Parsing results for UFC 13
+Parsing results for UFC 12
+Parsing results for UFC: The Ultimate Ultimate 2
+Parsing results for UFC 11
+Parsing results for UFC 10
+Parsing results for UFC 9
+Parsing results for UFC 8
+Parsing results for UFC: The Ultimate Ultimate
+Skipping event - no results table found
+Parsing results for UFC 7
+Parsing results for UFC 6
+Parsing results for UFC 5
+Parsing results for UFC 4
+Parsing results for UFC 3
+Parsing results for UFC 2
+Parsing results for UFC 1
+
+Scrape complete. The following pages were skipped:
+UFC 233
+The Ultimate Fighter: Heavy Hitters Finale
+The Ultimate Fighter: Undefeated#The Ultimate Fighter 27 Finale
+The Ultimate Fighter: A New World Champion#The Ultimate Fighter 26 Finale
+The Ultimate Fighter: Redemption#The Ultimate Fighter 25 Finale
+The Ultimate Fighter: Tournament of Champions#The Ultimate Fighter 24 Finale
+UFC Fight Night: Lamas vs. Penn
+UFC Fight Night: Machida vs. Dollaway
+The Ultimate Fighter: A Champion Will Be Crowned#The Ultimate Fighter 20 Finale
+UFC Fight Night: Bader vs. Saint Preux
+UFC 176: Aldo vs. Mendes II
+The Ultimate Fighter: Brazil 3#The Ultimate Fighter Brazil 3 Finale: Miocic vs. Maldonado
+The Ultimate Fighter Nations: Canada vs. Australia#The Ultimate Fighter Nations Finale: Bisping vs. Kennedy
+The Ultimate Fighter: Team Rousey vs. Team Tate#The Ultimate Fighter 18 Finale
+UFC on Fuel TV: Nogueira vs. Werdum
+The Ultimate Fighter: Team Jones vs. Team Sonnen#The Ultimate Fighter 17 Finale
+UFC on FX: Belfort vs. Bisping
+The Ultimate Fighter: Team Carwin vs. Team Nelson#The Ultimate Fighter 16 Finale
+UFC 151: Jones vs. Henderson
+UFC 149: Faber vs. Barão
+UFC Fight Night: Stevenson vs. Guillard#UFC Fight Night: Stevenson vs. Guillard
+UFC Ultimate Fight Night
+UFC 27
+UFC 26
+UFC: The Ultimate Ultimate
