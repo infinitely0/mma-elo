@@ -20,7 +20,7 @@ update_scores <- function(fight, scores) {
   f_exp = f_rating / (f_rating + o_rating)
   o_exp = o_rating / (f_rating + o_rating)
 
-  if (result == "def.") {
+  if (result == "def." || result == "def") {
     f_result = 1
     o_result = 0
   }
@@ -30,7 +30,7 @@ update_scores <- function(fight, scores) {
   #  o_result = 1
   #}
   # This counts no contests as draws
-  else if (result == "vs.") {
+  else if (result == "vs." || result == "vs") {
     f_result = 0.5
     o_result = 0.5
   }
@@ -47,14 +47,24 @@ update_scores <- function(fight, scores) {
   return(scores)
 }
 
-scraped_results <- read.csv("results.csv")
-extra_results <- read.csv("results_extra.csv")
+parse_date <- function(date_string) {
+  date_formats <- c("%B %d, %Y", "%B %d %Y", "%d %B, %Y", "%d %B %Y")
 
-# There are no dates on the fights so the additional results are appended to
-# the end of the scraped results. This breaks the chronological order of the
-# fights and might have a non-negligible effect on the rankings.
+  for (date_format in date_formats) {
+    date_obj <- as.Date(date_string, format=date_format)
+    if (!is.na(date_obj)) {
+      break
+    }
+  }
+  return(date_obj)
+}
+
+scraped_results <- read.csv2("results.csv")
+extra_results <- read.csv2("results_extra.csv")
+
 results <- rbind(scraped_results, extra_results)
-results <- results[nrow(results):1, ]
+results$Date <- sapply(results$Date, parse_date)
+results <- results[order(results$Date, results$Fight.Number), ]
 
 all_names <- c(as.character(results$Fighter), as.character(results$Opponent))
 fighters <- unique(all_names)
@@ -69,4 +79,3 @@ for (i in 1:nrow(results)) {
 ranked <- scores[order(-scores$Score), ]
 top <- ranked[1:30, ]
 print(top)
-

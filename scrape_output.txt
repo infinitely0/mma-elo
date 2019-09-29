@@ -1,3 +1,4 @@
+Parsing results for UFC Fight Night: Hermansson vs. Cannonier
 Parsing results for UFC Fight Night: Rodríguez vs. Stephens
 Parsing results for UFC Fight Night: Cowboy vs. Gaethje
 Parsing results for UFC 242: Khabib vs. Poirier
@@ -118,7 +119,6 @@ Parsing results for UFC on Fox: VanZant vs. Waterson
 Parsing results for UFC 206: Holloway vs. Pettis
 Parsing results for UFC Fight Night: Lewis vs. Abdurakhimov
 Parsing results for The Ultimate Fighter: Tournament of Champions#The Ultimate Fighter 24 Finale
-Skipping event - no results table found
 Parsing results for UFC Fight Night: Whittaker vs. Brunson
 Parsing results for UFC Fight Night: Bader vs. Nogueira 2
 Parsing results for UFC Fight Night: Mousasi vs. Hall 2
@@ -176,6 +176,7 @@ Parsing results for UFC on Fox: Dillashaw vs. Barão 2
 Parsing results for UFC Fight Night: Bisping vs. Leites
 Parsing results for UFC Fight Night: Mir vs. Duffee
 Parsing results for The Ultimate Fighter: American Top Team vs. Blackzilians#The Ultimate Fighter 21 Finale
+Skipping event - no results table found
 Parsing results for UFC 189: Mendes vs. McGregor
 Parsing results for UFC Fight Night: Machida vs. Romero
 Parsing results for UFC Fight Night: Jędrzejczyk vs. Penne
@@ -199,7 +200,6 @@ Parsing results for UFC on Fox: Gustafsson vs. Johnson
 Parsing results for UFC Fight Night: McGregor vs. Siver
 Parsing results for UFC 182: Jones vs. Cormier
 Parsing results for UFC Fight Night: Machida vs. Dollaway
-Skipping event - no results table found
 Parsing results for UFC on Fox: dos Santos vs. Miocic
 Parsing results for The Ultimate Fighter: A Champion Will Be Crowned#The Ultimate Fighter 20 Finale
 Skipping event - no results table found
@@ -219,7 +219,6 @@ Parsing results for UFC 177: Dillashaw vs. Soto
 Parsing results for UFC Fight Night: Henderson vs. dos Anjos
 Parsing results for UFC Fight Night: Bisping vs. Le
 Parsing results for UFC Fight Night: Bader vs. Saint Preux
-Skipping event - no results table found
 Parsing results for UFC 176: Aldo vs. Mendes II
 Skipping event - no results table found
 Parsing results for UFC on Fox: Lawler vs. Brown
@@ -272,7 +271,6 @@ Parsing results for UFC on Fox: Johnson vs. Moraga
 Parsing results for UFC 162: Silva vs. Weidman
 Parsing results for UFC 161: Evans vs. Henderson
 Parsing results for UFC on Fuel TV: Nogueira vs. Werdum
-Skipping event - no results table found
 Parsing results for UFC 160: Velasquez vs. Bigfoot 2
 Parsing results for UFC on FX: Belfort vs. Rockhold
 Parsing results for UFC 159: Jones vs. Sonnen
@@ -347,6 +345,7 @@ Parsing results for UFC Fight Night: Nogueira vs. Davis
 Parsing results for UFC 128: Shogun vs. Jones
 Parsing results for UFC Live: Sanchez vs. Kampmann
 Parsing results for UFC 127: Penn vs. Fitch
+Skipping event - no results table found
 Parsing results for UFC 126: Silva vs. Belfort
 Parsing results for UFC: Fight for the Troops 2
 Parsing results for UFC 125: Resolution
@@ -478,6 +477,7 @@ Parsing results for UFC 39
 Parsing results for UFC 38
 Parsing results for UFC 37.5
 Parsing results for UFC 37
+Skipping event - no results table found
 Parsing results for UFC 36
 Parsing results for UFC 35
 Parsing results for UFC 34
@@ -496,6 +496,7 @@ Parsing results for UFC 24
 Parsing results for UFC 23
 Parsing results for UFC 22
 Parsing results for UFC 21
+Skipping event - no results table found
 Parsing results for UFC 20
 Parsing results for UFC 19
 Parsing results for UFC 18
@@ -528,23 +529,23 @@ The Ultimate Fighter: Heavy Hitters Finale
 The Ultimate Fighter: Undefeated#The Ultimate Fighter 27 Finale
 The Ultimate Fighter: A New World Champion#The Ultimate Fighter 26 Finale
 The Ultimate Fighter: Redemption#The Ultimate Fighter 25 Finale
-The Ultimate Fighter: Tournament of Champions#The Ultimate Fighter 24 Finale
 UFC Fight Night: Lamas vs. Penn
-UFC Fight Night: Machida vs. Dollaway
+The Ultimate Fighter: American Top Team vs. Blackzilians#The Ultimate Fighter 21 Finale
 The Ultimate Fighter: A Champion Will Be Crowned#The Ultimate Fighter 20 Finale
-UFC Fight Night: Bader vs. Saint Preux
 UFC 176: Aldo vs. Mendes II
 The Ultimate Fighter: Brazil 3#The Ultimate Fighter Brazil 3 Finale: Miocic vs. Maldonado
 The Ultimate Fighter Nations: Canada vs. Australia#The Ultimate Fighter Nations Finale: Bisping vs. Kennedy
 The Ultimate Fighter: Team Rousey vs. Team Tate#The Ultimate Fighter 18 Finale
-UFC on Fuel TV: Nogueira vs. Werdum
 The Ultimate Fighter: Team Jones vs. Team Sonnen#The Ultimate Fighter 17 Finale
 UFC on FX: Belfort vs. Bisping
 The Ultimate Fighter: Team Carwin vs. Team Nelson#The Ultimate Fighter 16 Finale
 UFC 151: Jones vs. Henderson
 UFC 149: Faber vs. Barão
+UFC 127: Penn vs. Fitch
 UFC Fight Night: Stevenson vs. Guillard#UFC Fight Night: Stevenson vs. Guillard
 UFC Ultimate Fight Night
+UFC 37
 UFC 27
 UFC 26
+UFC 21
 UFC: The Ultimate Ultimate
