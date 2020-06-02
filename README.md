@@ -1,47 +1,53 @@
-# mma-elo
+# MMA Elo Rankings
 
-This is a qnd rankings generator for MMA fighters. It works by scraping
-Wikipedia for all UFC fights, then using the Elo rating system to give each
-fighter a score.
+This is a quick-and-dirty rankings generator for MMA fighters. It works by
+scraping Wikipedia for all UFC fights, then using the Elo rating system to give
+each fighter a score.
 
-Here is the top 30 table (as of 1 October 2019):
+## Current top 30
 
-                 Fighter Score
-        Georges St-Pierre  1244
-                Jon Jones  1234
-            Tony Ferguson  1210
-      Khabib Nurmagomedov  1191
-             Max Holloway  1182
-           Dustin Poirier  1162
-             Kamaru Usman  1156
-             Amanda Nunes  1153
-       Demetrious Johnson  1147
-             Stipe Miocic  1147
-         Joseph Benavidez  1146
-               Ryan Bader  1143
-           Daniel Cormier  1142
-            Frankie Edgar  1141
-         Charles Oliveira  1139
-         Robert Whittaker  1138
-           Gegard Mousasi  1135
-          Colby Covington  1133
-              Demian Maia  1128
-            Chris Weidman  1128
-             Leon Edwards  1128
-             Royce Gracie  1127
-                Jon Fitch  1127
-        Junior dos Santos  1127
-         Rafael dos Anjos  1126
-     Santiago Ponzinibbio  1126
-           Cain Velasquez  1124
-           Conor McGregor  1124
-             Henry Cejudo  1124
-           Donald Cerrone  1121
+Here is the top 30 table as of 2 June 2020:
+
+| Rank | Fighter               | Score |
+|------|-----------------------|-------|
+| 1    | Georges St-Pierre     | 1244  |
+| 2    | Jon Jones             | 1244  |
+| 3    | Khabib Nurmagomedov   | 1191  |
+| 4    | Tony Ferguson         | 1188  |
+| 5    | Kamaru Usman          | 1171  |
+| 6    | Amanda Nunes          | 1165  |
+| 7    | Charles Oliveira      | 1163  |
+| 8    | Max Holloway          | 1163  |
+| 9    | Dustin Poirier        | 1162  |
+| 10   | Israel Adesanya       | 1152  |
+| 11   | Demetrious Johnson    | 1147  |
+| 12   | Stipe Miocic          | 1147  |
+| 13   | Glover Teixeira       | 1145  |
+| 14   | Ryan Bader            | 1143  |
+| 15   | Daniel Cormier        | 1142  |
+| 16   | Conor McGregor        | 1140  |
+| 17   | Henry Cejudo          | 1138  |
+| 18   | Gegard Mousasi        | 1135  |
+| 19   | Gilbert Burns         | 1133  |
+| 20   | Alexander Volkanovski | 1133  |
+| 21   | Francis Ngannou       | 1131  |
+| 22   | Leon Edwards          | 1128  |
+| 23   | Royce Gracie          | 1127  |
+| 24   | Jon Fitch             | 1127  |
+| 25   | Joseph Benavidez      | 1127  |
+| 26   | Santiago Ponzinibbio  | 1126  |
+| 27   | Francisco Trinaldo    | 1125  |
+| 28   | Derrick Lewis         | 1125  |
+| 29   | Cain Velasquez        | 1124  |
+| 30   | Frankie Edgar         | 1121  |
 
 The full list is in `rankings.txt`.
 
+## Limitations
+
 If some names look out of place, it's probably because of one of the following
 issues:
+
  - The Elo rating system doesn't yield accurate scores until players have
    played enough games to overcome the initial volatility of their scores. Some
    fighters in the UFC have competed fewer than 10 times which is quite low for
@@ -70,14 +76,40 @@ issues:
    name is spelled in two different ways. The data have not been checked for
    these kinds of errors.
 
+## Instructions
+
 If you would like to update the rankings to include more recent event, here's
 some instructions on how to use this. Warning: this is pretty hacky.
 
-- Use `scrape.py` to gather all the fights from UFC events, which are saved in
-  `results.csv`.
-- The console output will tell you if the scraper couldn't find the results for
-  an event. You will have to add these manually to `results_extra.csv` (make
-  sure the format is the same -- I've already added all the early events that
-  were missed, just append anything else to these).
-- Run `mma.r` to generate the top 30 table. Uncommon the last line to update
-  the full rankings, which are saved to the `rankings.txt` file.
+1. Scrape
+
+Use `scrape.py` to gather all the fights from UFC events. If you're updating
+the current list, you don't need to scrape all of the previous events - just
+skip the ones I've already scraped and go from there to the most recent event.
+In the python file, if you print the list of event links (this is `links =
+find_event_links()`) you can inspect the list of events being scraped, and just
+cut this list to the most recent x events (`links = links[0:x]`).
+
+The results are saved in `results.csv`, overwriting the previous ones. If
+you're only updating the list, you need to append whatever new results are
+stored in this file to the results that were previously there. Make sure sure
+you insert new data in the right place.
+
+2. Add missing results
+
+The results saved in `results.csv`, may be incomplete. The console output will
+tell you if the scraper couldn't find the results for an event. This might be
+because the even was cancelled or the Wikipedia page is badly formatted. You
+will have to add these manually to `results_extra.csv`, just make sure the
+format is the same. I've already added all the early events that were missed,
+just append anything else to these.
+
+3. Run analysis
+
+Use `mma.r` to generate the top 30 table. Run with `Rscript mma.r` (requires R
+-- I probably shouldn't have used two languages for a small project like this,
+but it was easier for me to work with data in R than python, and I'm used to
+using python's BeautifulSoup for scraping).
+
+To update the full rankings, which are saved to the `rankings.txt` file,
+uncomment the last line in `mma.r`.

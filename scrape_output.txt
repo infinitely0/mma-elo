@@ -1,3 +1,34 @@
+Parsing results for UFC on ESPN: Woodley vs. Burns
+Parsing results for UFC on ESPN: Overeem vs. Harris
+Parsing results for UFC Fight Night: Smith vs. Teixeira
+Parsing results for UFC 249: Ferguson vs. Gaethje
+Parsing results for UFC Fight Night: Hermansson vs. Weidman
+Skipping event - no results table found
+Parsing results for UFC Fight Night: Smith vs. Teixeira
+Parsing results for UFC Fight Night: Overeem vs. Harris
+Skipping event - no results table found
+Parsing results for UFC on ESPN: Ngannou vs. Rozenstruik
+Skipping event - no results table found
+Parsing results for UFC Fight Night: Woodley vs. Edwards
+Skipping event - no results table found
+Parsing results for UFC Fight Night: Lee vs. Oliveira
+Parsing results for UFC 248: Adesanya vs. Romero
+Parsing results for UFC Fight Night: Benavidez vs. Figueiredo
+Parsing results for UFC Fight Night: Felder vs. Hooker
+Parsing results for UFC Fight Night: Anderson vs. Błachowicz 2
+Parsing results for UFC 247: Jones vs. Reyes
+Parsing results for UFC Fight Night: Blaydes vs. dos Santos
+Parsing results for UFC 246: McGregor vs. Cowboy
+Parsing results for UFC Fight Night: Edgar vs. The Korean Zombie
+Parsing results for UFC 245: Usman vs. Covington
+Parsing results for UFC on ESPN: Overeem vs. Rozenstruik
+Parsing results for UFC Fight Night: Błachowicz vs. Jacaré
+Parsing results for UFC Fight Night: Magomedsharipov vs. Kattar
+Parsing results for UFC 244: Masvidal vs. Diaz
+Parsing results for UFC Fight Night: Maia vs. Askren
+Parsing results for UFC on ESPN: Reyes vs. Weidman
+Parsing results for UFC Fight Night: Joanna vs. Waterson
+Parsing results for UFC 243: Whittaker vs. Adesanya
 Parsing results for UFC Fight Night: Hermansson vs. Cannonier
 Parsing results for UFC Fight Night: Rodríguez vs. Stephens
 Parsing results for UFC Fight Night: Cowboy vs. Gaethje
@@ -524,6 +555,10 @@ Parsing results for UFC 2
 Parsing results for UFC 1
 
 Scrape complete. The following pages were skipped:
+UFC Fight Night: Hermansson vs. Weidman
+UFC Fight Night: Overeem vs. Harris
+UFC on ESPN: Ngannou vs. Rozenstruik
+UFC Fight Night: Woodley vs. Edwards
 UFC 233
 The Ultimate Fighter: Heavy Hitters Finale
 The Ultimate Fighter: Undefeated#The Ultimate Fighter 27 Finale
